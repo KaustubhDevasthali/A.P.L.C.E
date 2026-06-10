@@ -1,0 +1,11 @@
+task_id: requirement-001
+title: JWT Authentication Implementation
+raw_request: |
+  Add JWT authentication to sample API. Users should be able to log in, receive a token, and access protected routes.
+repo_path: sandbox_repos/sample_api
+constraints:
+  - Do not implement OAuth
+  - Do not store secrets in code
+  - Add tests for missing and invalid tokens
+metadata: 
+  priority: learning
