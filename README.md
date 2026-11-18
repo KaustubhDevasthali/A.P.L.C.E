@@ -48,8 +48,3 @@ Each agent will then return result
     Risks, if any
     Recommendations, if any
     Confidence
-
-
-# Agents
-
-## Requirement Agent
